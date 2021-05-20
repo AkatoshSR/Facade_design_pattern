@@ -4,3 +4,4 @@
 ![Image text](https://github.com/AkatoshSR/Facade_design_pattern/blob/master/img-folder/example.gif)
 
 ==基本类图展示==
+![Image text](https://github.com/AkatoshSR/Facade_design_pattern/blob/master/img-folder/classP.png)
